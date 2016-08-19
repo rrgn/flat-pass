@@ -1,0 +1,122 @@
+.top-buffer {
+  margin-top: 2%;
+}
+
+.lock {
+  margin-top: 7%;
+  font-size: 200px;
+  color: #3498DB;
+
+}
+
+.jumbotron {
+  background-color: #3498DB;
+}
+
+table thead th {
+  color: #95A5A6;
+}
+
+table tbody td {
+  color: #3498DB;
+}
+
+form label {
+  color: #95A5A6;
+}
+
+h1, h4, h5 {
+  color: #95A5A6;
+}
+
+.outline-button-primary {
+  color: #3498DB;
+  border-color: #3498DB;
+}
+
+.outline-button-primary:hover {
+  color: white;
+  background-color: #3498DB;
+  border-color: #3498DB;
+}
+
+.outline-button-secondary {
+  color: #2ECC71;
+  border-color: #2ECC71;
+}
+
+.outline-button-secondary:hover {
+  color: white;
+  background-color: #2ECC71;
+  border-color: #2ECC71;
+}
+
+.outline-button-alternate {
+  color: #E67E22;
+  border-color: #E67E22;
+}
+
+.outline-button-alternate:hover {
+  color: white;
+  background-color: #E67E22;
+  border-color: #E67E22;
+}
+
+.outline-button-danger {
+  color: #E74C3C;
+  border-color: #E74C3C;
+}
+
+.outline-button-danger:hover {
+  color: white;
+  background-color: #E74C3C;
+  border-color: #E74C3C;
+}
+
+.nuke-text {
+  color: #95A5A6;
+}
+
+.nuke-in-span {
+  color: #E74C3C;
+}
+
+.blue-text {
+  color: #3498DB;
+}
+
+.orange-text {
+  color: #E67E22;
+}
+
+.light-grey-text {
+  color: #ECF0F1
+}
+
+.grey-text {
+  color: #95A5A6;
+}
+
+.back-button {
+  color: #E67E22;
+  outline: #ffffff;
+  background-color: transparent;
+  border-color: #E67E22;
+  float: left;
+  margin-top: 0.5%;
+}
+
+.back-button:hover {
+  color: white;
+  outline: #ffffff;
+  background-color: #E67E22;
+  border: 0;
+}
+
+.tb-handle {
+  cursor: default;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
