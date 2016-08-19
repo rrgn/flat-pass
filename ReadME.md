@@ -44,3 +44,4 @@ A web-based password manager that saves your data. Built using the MEAN stack, a
 
 
 ## Live Link
+https://flat-pass.herokuapp.com/#
